@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'usertask.wsgi.application'
+WSGI_APPLICATION = 'Djangousertask.wsgi.application'
 
 
 # Database
